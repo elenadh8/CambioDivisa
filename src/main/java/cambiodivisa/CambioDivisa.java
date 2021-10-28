@@ -57,7 +57,7 @@ public class CambioDivisa extends Application {
 		root.setAlignment(Pos.CENTER);
 		Scene scene = new Scene(root, 320, 200);
 		primaryStage.setScene(scene);
-		primaryStage.setTitle("Calculadora.fxml");
+		primaryStage.setTitle("Cambio de Divisa");
 		primaryStage.show();
 
 	}
